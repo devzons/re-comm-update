@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Stripe Payment
+
+Github: react-stripe-checkout documentation [https://github.com/azmenak/react-stripe-checkout](https://github.com/azmenak/react-stripe-checkout)
