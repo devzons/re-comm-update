@@ -111,4 +111,4 @@ if (process.env.NODE_ENV === 'development') {
 `git push heroku master`
 
 ### Live app
-`https://devzons-clothing.herokuapp.com/`
+Here[https://devzons-clothing.herokuapp.com](https://devzons-clothing.herokuapp.com/)
