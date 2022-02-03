@@ -97,5 +97,18 @@ here [https://github.com/mars/create-react-app-buildpack](https://github.com/mar
 
 * Add heroku domain to Firebase to test Google Sign in
 
-* Remove logger only in production
+### Remove logger only in production
 
+* update store.js file
+```
+const middlewares = []
+
+if (process.env.NODE_ENV === 'development') {
+  middlewares.push(logger)
+}
+```
+* next command will rebuild the app
+`git push heroku master`
+
+### Live app
+`https://devzons-clothing.herokuapp.com/`
